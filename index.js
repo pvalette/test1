@@ -16,6 +16,13 @@ function main3()
 	let y = i / 0;
 }
 
+function main4()
+{
+	let i = 10;
+	let y = i / 0;
+}
+
+
 function error()
 {
 	let i = 10;
