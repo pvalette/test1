@@ -9,7 +9,7 @@ function main2()
 {
 	console.log("In main2 function");
 }
-
+/********/
 function main3()
 {
 	let i = 10;
