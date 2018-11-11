@@ -21,6 +21,11 @@ function main4()
 	let i = 10;
 	let y = i / 0;
 }
+function main5()
+{
+	let i = 10;
+	let y = i / 0;
+}
 
 
 function error()
