@@ -9,6 +9,7 @@ function main2()
 {
 	console.log("In main2 function")
 }
+
 function main3()
 {
 	console.log("In main2 function")
@@ -23,4 +24,6 @@ function error()
 
 
 main()
+main2()
+main3()
 console.log(error())
