@@ -17,7 +17,8 @@ function main3()
 
 function error()
 {
-	let y = i / 0
+	let i = 10;
+	let y = i / 0;
 }
 
 
@@ -25,5 +26,5 @@ function error()
 
 main();
 main2();
-if (0) main3();
-console.log(error());
+if (0) { main3();}
+let t = error();
