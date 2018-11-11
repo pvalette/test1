@@ -2,39 +2,39 @@ function main ()
 {
 	console.log("In main function");
 }
-function main2 ()
+function mainTwo ()
 {
 	console.log("In main2 function");
 }
 /*** ** ***/
-function main3 ()
+function mainThree ()
 {
-	let iiii = 10;
-	let yyyy = iiii / 0;
+	const iiii = 10;
+	const yyyy = iiii / 0;
 	console.log(yyyy)
 }
 
-function main4 ()
+function mainFour ()
 {
-	let iiii = 10;
-	let yyyy = iiii / 0;
+	const iiii = 10;
+	const yyyy = iiii / 0;
 	console.log(yyyy)
 }
-function main5 ()
+function mainFive ()
 {
-	let iiii = 10;
-	let y = iiii / 0;
+	const iiii = 10;
+	const y = iiii / 0;
 	console.log(yyyy)
 }
 function error ()
 {
-	let iiii = 10;
-	let yyyy = iiii / 0;
+	const iiii = 10;
+	const yyyy = iiii / 0;
 	console.log(yyyy)
 }
 
 main();
-main2();
+mainTow();
 //if (0) { main3();}
 let tttt = error();
 console.log(tttt)
