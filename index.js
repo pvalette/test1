@@ -9,27 +9,27 @@ function main2()
 /********/
 function main3()
 {
-	let i = 10;
-	let y = i / 0;
+	let iiii = 10;
+	let yyyy = iiii / 0;
 	console.log(yyyy)
 }
 
 function main4()
 {
-	let i = 10;
-	let y = i / 0;
+	let iiii = 10;
+	let yyyy = iiii / 0;
 	console.log(yyyy)
 }
 function main5()
 {
-	let i = 10;
-	let y = i / 0;
+	let iiii = 10;
+	let y = iiii / 0;
 	console.log(yyyy)
 }
 function error()
 {
-	let i = 10;
-	let y = i / 0;
+	let iiii = 10;
+	let yyyy = iiii / 0;
 	console.log(yyyy)
 }
 
