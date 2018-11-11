@@ -12,7 +12,8 @@ function main2()
 
 function main3()
 {
-	console.log("In main2 function");
+	let i = 10;
+	let y = i / 0;
 }
 
 function error()
@@ -26,5 +27,5 @@ function error()
 
 main();
 main2();
-if (0) { main3();}
+//if (0) { main3();}
 let t = error();
