@@ -1,32 +1,32 @@
-function main()
+function main ()
 {
 	console.log("In main function");
 }
-function main2()
+function main2 ()
 {
 	console.log("In main2 function");
 }
-/********/
-function main3()
+/*** ** ***/
+function main3 ()
 {
 	let iiii = 10;
 	let yyyy = iiii / 0;
 	console.log(yyyy)
 }
 
-function main4()
+function main4 ()
 {
 	let iiii = 10;
 	let yyyy = iiii / 0;
 	console.log(yyyy)
 }
-function main5()
+function main5 ()
 {
 	let iiii = 10;
 	let y = iiii / 0;
 	console.log(yyyy)
 }
-function error()
+function error ()
 {
 	let iiii = 10;
 	let yyyy = iiii / 0;
