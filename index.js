@@ -3,16 +3,16 @@
 
 function main()
 {
-	console.log("In main function")
+	console.log("In main function");
 }
 function main2()
 {
-	console.log("In main2 function")
+	console.log("In main2 function");
 }
 
 function main3()
 {
-	console.log("In main2 function")
+	console.log("In main2 function");
 }
 
 function error()
@@ -25,5 +25,5 @@ function error()
 
 main();
 main2();
-main3();
-console.log(error())
+if (0) main3();
+console.log(error());
