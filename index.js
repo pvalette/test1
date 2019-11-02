@@ -32,8 +32,9 @@ function error ()
 	const yyyy = iiii / 0;
 	console.log(yyyy)
 }
-
-main();
+let user="toto@ttoto.de"
+let password= "llllll"
+main(user,password)
 mainTow();
 //if (0) { main3();}
 let tttt = error();
